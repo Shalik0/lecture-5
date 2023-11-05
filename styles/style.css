@@ -1,0 +1,145 @@
+header {
+	padding-top: 54px;
+	padding-left: 52px;
+	margin-bottom: 44px;
+}
+
+.middle{
+	padding-top: 54px;
+	padding-left: 52px;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+
+	margin-right: 60px;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+
+li {
+	display: inline-block;
+	margin-right: 87px;
+}
+
+a {
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+article{
+	margin-bottom: 30px;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+.date {
+	height: 50px;
+	width: 50px;
+	background-color: #5012D5;
+
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 8px 11px;
+	margin-bottom: 18px;
+}
+
+h3 {
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 8px;
+}
+
+h4 {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 13px;
+}
+
+.banner {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 66px;
+	margin-bottom: 10px;
+}
+
+.articles {
+	display: inline-block;
+	width: 778px;
+	vertical-align: top;
+}
+
+.txt3{
+	margin-top: 20px;
+}
+
+p {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+	margin-bottom:20px;
+}
+
+.square{
+	font-family: "BPG Square", sans-serif;
+}
+
+.nostalgia{
+	font-family: "BPG Nostalgia", sans-serif;
+}
+
+footer{
+	margin-top: 100px;
+}
+
+.center {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+.icon-title{
+	color: #3F4145;
+	font-family: Helvetica Neue LT GEO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	width: 335px;
+}
+
+.search-icon{
+	display: inline-block;
+}
+
+
+
+

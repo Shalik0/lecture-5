@@ -1,0 +1,82 @@
+.container{
+    width: 1052px;
+    margin: 0 auto;
+}
+
+.banner{
+    width: 100%;
+}
+
+.sec-2{
+	margin-top: 120px;
+}
+
+.news-title{
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 31px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.news-title2{
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.line{
+	width: 2px;
+	height: 24px;
+	background: #5012D5;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 18px;
+	margin-right: 18px;
+}
+
+.boxes{
+	vertical-align:middle;
+	margin-top: 26px;
+}
+ 
+.grey-box{
+	display: inline-block;
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+}
+
+.grey-box1{
+	display: inline-block;
+	width: 500px;
+	height: 192px;
+	margin-left: 35px;
+	background-color: #E7E7E7;
+}
+
+.content{
+	display: inline-block;
+	color: #7E8898;
+	font-family: Helvetica Neue LT GEO;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	width: 335px;
+	font-family: "BPG Nateli", sans-serif;
+}
+
+
+.containerft{
+    width: 1052px;
+    margin: 0 auto;
+	margin-top: 100px;
+}

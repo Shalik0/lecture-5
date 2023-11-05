@@ -1,0 +1,50 @@
+.grey-screen{
+	height: 735px;
+	background-color: #E7E7E7;
+}
+
+.info{
+	display: inline-block;
+	vertical-align:baseline;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.title{
+    color: #4E6FAE;
+    font-family: Helvetica Neue;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.lite{
+    color: #7E8898;
+    font-family: Helvetica Neue LT GEO;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.dark{
+    color: #3F4145;
+    font-family: Helvetica Neue LT GEO;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.map{
+    margin-left: 10px;
+    width: 944px;
+    height: 549px;
+    vertical-align: top;
+    display: inline-block;
+}
