@@ -45,6 +45,7 @@
 .boxes{
 	vertical-align:middle;
 	margin-top: 26px;
+	display: inline-flex;
 }
  
 .grey-box{
